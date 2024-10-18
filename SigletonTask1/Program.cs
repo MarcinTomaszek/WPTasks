@@ -2,9 +2,11 @@
 
 class Program
 {
-    public class Logger
+    public sealed class Logger
     {
         private static Logger instance;
+        
+        private Logger(){}
         
         public static Logger Instance()
         {
@@ -18,12 +20,24 @@ class Program
 
         public void LoggActivity(string log)
         {
-            
+            Console.WriteLine($"Log: {log}");
         }
     }
 
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+
+        Logger l1 =  Logger.Instance();
+        Logger l2 = Logger.Instance();
+        
+        l1.LoggActivity("Log1");
+        l2.LoggActivity("Log2");
+        
+        if(l1==l2)
+            Console.WriteLine("This same instance");
+        else
+            Console.WriteLine("Other Instance");
+            
+        
     }
 }

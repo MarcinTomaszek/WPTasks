@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SigletonTask1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d575b34bee5727e957ce6f672937fd1ee3f7c679")]
 [assembly: System.Reflection.AssemblyProductAttribute("SigletonTask1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SigletonTask1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

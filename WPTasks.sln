@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigletonTask1", "SigletonTask1\SigletonTask1.csproj", "{ADB1186D-F565-427C-B134-0E5A939D1D4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTask2", "SingletonTask2\SingletonTask2.csproj", "{778C4F58-059C-4352-B213-0CE35C571D51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{ADB1186D-F565-427C-B134-0E5A939D1D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADB1186D-F565-427C-B134-0E5A939D1D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADB1186D-F565-427C-B134-0E5A939D1D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778C4F58-059C-4352-B213-0CE35C571D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778C4F58-059C-4352-B213-0CE35C571D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778C4F58-059C-4352-B213-0CE35C571D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778C4F58-059C-4352-B213-0CE35C571D51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
