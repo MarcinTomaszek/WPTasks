@@ -1,0 +1,15 @@
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\bin\Debug\net8.0\MultitonTask.exe
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\bin\Debug\net8.0\MultitonTask.deps.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\bin\Debug\net8.0\MultitonTask.runtimeconfig.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\bin\Debug\net8.0\MultitonTask.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\bin\Debug\net8.0\MultitonTask.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\MultitonTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\MultitonTask.AssemblyInfoInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\MultitonTask.AssemblyInfo.cs
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\MultitonTask.csproj.CoreCompileInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\MultitonTask.sourcelink.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\MultitonTask.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\refint\MultitonTask.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\MultitonTask.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\MultitonTask.genruntimeconfig.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\MultitonTask\obj\Debug\net8.0\ref\MultitonTask.dll
