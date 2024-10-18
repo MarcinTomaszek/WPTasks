@@ -1,0 +1,15 @@
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\bin\Debug\net8.0\SingletonTask2.exe
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\bin\Debug\net8.0\SingletonTask2.deps.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\bin\Debug\net8.0\SingletonTask2.runtimeconfig.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\bin\Debug\net8.0\SingletonTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\bin\Debug\net8.0\SingletonTask2.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\SingletonTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\SingletonTask2.AssemblyInfoInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\SingletonTask2.AssemblyInfo.cs
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\SingletonTask2.csproj.CoreCompileInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\SingletonTask2.sourcelink.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\SingletonTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\refint\SingletonTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\SingletonTask2.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\SingletonTask2.genruntimeconfig.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\SingletonTask2\obj\Debug\net8.0\ref\SingletonTask2.dll
