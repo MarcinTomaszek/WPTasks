@@ -1,0 +1,15 @@
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\bin\Debug\net8.0\BuilderTask2.exe
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\bin\Debug\net8.0\BuilderTask2.deps.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\bin\Debug\net8.0\BuilderTask2.runtimeconfig.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\bin\Debug\net8.0\BuilderTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\bin\Debug\net8.0\BuilderTask2.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\BuilderTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\BuilderTask2.AssemblyInfoInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\BuilderTask2.AssemblyInfo.cs
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\BuilderTask2.csproj.CoreCompileInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\BuilderTask2.sourcelink.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\BuilderTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\refint\BuilderTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\BuilderTask2.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\BuilderTask2.genruntimeconfig.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\BuilderTask2\obj\Debug\net8.0\ref\BuilderTask2.dll

@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultitonTask", "MultitonTas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderTask1", "BuilderTask1\BuilderTask1.csproj", "{810B18BD-90A6-4498-A948-7A0A984D1DD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderTask2", "BuilderTask2\BuilderTask2.csproj", "{B7458A53-8B28-4A92-A4A5-ABCBAD70C805}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{810B18BD-90A6-4498-A948-7A0A984D1DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{810B18BD-90A6-4498-A948-7A0A984D1DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{810B18BD-90A6-4498-A948-7A0A984D1DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7458A53-8B28-4A92-A4A5-ABCBAD70C805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7458A53-8B28-4A92-A4A5-ABCBAD70C805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7458A53-8B28-4A92-A4A5-ABCBAD70C805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7458A53-8B28-4A92-A4A5-ABCBAD70C805}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
