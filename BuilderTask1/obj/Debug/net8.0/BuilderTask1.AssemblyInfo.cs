@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SigletonTask1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BuilderTask1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e38348988e47d93e225fec260252c091519279f4")]
-[assembly: System.Reflection.AssemblyProductAttribute("SigletonTask1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SigletonTask1")]
+[assembly: System.Reflection.AssemblyProductAttribute("BuilderTask1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BuilderTask1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
