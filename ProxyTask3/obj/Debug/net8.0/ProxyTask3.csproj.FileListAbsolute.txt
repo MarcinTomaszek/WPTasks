@@ -1,0 +1,15 @@
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\bin\Debug\net8.0\ProxyTask3.exe
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\bin\Debug\net8.0\ProxyTask3.deps.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\bin\Debug\net8.0\ProxyTask3.runtimeconfig.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\bin\Debug\net8.0\ProxyTask3.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\bin\Debug\net8.0\ProxyTask3.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ProxyTask3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ProxyTask3.AssemblyInfoInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ProxyTask3.AssemblyInfo.cs
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ProxyTask3.csproj.CoreCompileInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ProxyTask3.sourcelink.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ProxyTask3.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\refint\ProxyTask3.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ProxyTask3.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ProxyTask3.genruntimeconfig.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\ProxyTask3\obj\Debug\net8.0\ref\ProxyTask3.dll
