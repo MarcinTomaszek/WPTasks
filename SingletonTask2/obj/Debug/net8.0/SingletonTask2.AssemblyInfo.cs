@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingletonTask2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06726a8bbdd5ccb7637dd7faa79a7536275b5643")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b1882b3e543c66c17e491dd7f2881d46a776526")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingletonTask2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingletonTask2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
