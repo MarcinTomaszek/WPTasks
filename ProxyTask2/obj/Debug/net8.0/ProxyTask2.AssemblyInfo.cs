@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProxyTask2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b58581c97d834d6a4a90e19a75fab73d00b7f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab1d4323d47ef53976259cae79c4328067f9f956")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProxyTask2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProxyTask2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
