@@ -1,0 +1,15 @@
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\bin\Debug\net8.0\AdapterTask1.exe
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\bin\Debug\net8.0\AdapterTask1.deps.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\bin\Debug\net8.0\AdapterTask1.runtimeconfig.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\bin\Debug\net8.0\AdapterTask1.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\bin\Debug\net8.0\AdapterTask1.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\AdapterTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\AdapterTask1.AssemblyInfoInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\AdapterTask1.AssemblyInfo.cs
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\AdapterTask1.csproj.CoreCompileInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\AdapterTask1.sourcelink.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\AdapterTask1.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\refint\AdapterTask1.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\AdapterTask1.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\AdapterTask1.genruntimeconfig.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\AdapterTask1\obj\Debug\net8.0\ref\AdapterTask1.dll

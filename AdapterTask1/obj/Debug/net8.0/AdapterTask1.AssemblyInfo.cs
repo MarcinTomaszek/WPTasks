@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProxyTask3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AdapterTask1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbacb3a691dec617396049a05879c4f0b3f9179e")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProxyTask3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProxyTask3")]
+[assembly: System.Reflection.AssemblyProductAttribute("AdapterTask1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AdapterTask1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
