@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyTask3", "ProxyTask3\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterTask1", "AdapterTask1\AdapterTask1.csproj", "{B0F6E378-2936-40AD-9672-287AA1361A88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterTask2", "AdapterTask2\AdapterTask2.csproj", "{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{B0F6E378-2936-40AD-9672-287AA1361A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F6E378-2936-40AD-9672-287AA1361A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F6E378-2936-40AD-9672-287AA1361A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
