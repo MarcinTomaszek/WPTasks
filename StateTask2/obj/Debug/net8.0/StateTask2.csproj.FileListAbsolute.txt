@@ -1,0 +1,15 @@
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\bin\Debug\net8.0\StateTask2.exe
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\bin\Debug\net8.0\StateTask2.deps.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\bin\Debug\net8.0\StateTask2.runtimeconfig.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\bin\Debug\net8.0\StateTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\bin\Debug\net8.0\StateTask2.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\StateTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\StateTask2.AssemblyInfoInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\StateTask2.AssemblyInfo.cs
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\StateTask2.csproj.CoreCompileInputs.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\StateTask2.sourcelink.json
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\StateTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\refint\StateTask2.dll
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\StateTask2.pdb
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\StateTask2.genruntimeconfig.cache
+D:\Users\marcin.tomaszek\RiderProjects\WPTasks\StateTask2\obj\Debug\net8.0\ref\StateTask2.dll
