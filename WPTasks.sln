@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterTask1", "AdapterTask
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterTask2", "AdapterTask2\AdapterTask2.csproj", "{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateTask1", "StateTask1\StateTask1.csproj", "{CFF25D10-4BFA-4921-B573-CEEE4EDECCAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D74A37E0-0BD1-4161-909D-3BF51A38F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF25D10-4BFA-4921-B573-CEEE4EDECCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF25D10-4BFA-4921-B573-CEEE4EDECCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF25D10-4BFA-4921-B573-CEEE4EDECCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF25D10-4BFA-4921-B573-CEEE4EDECCAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdapterTask2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a7c02d2de56488e747f5edd33ad0fd7e39e9f22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9718dc8b854e845f8e06a090970b2fecd838751")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdapterTask2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdapterTask2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
